@@ -26,6 +26,12 @@
 .. |---| unicode:: U+2014  .. em dash, trimming surrounding whitespace
    :trim:
 
+We Moved To Gitawonk
+====================
+https://gitawonk.com/dickmao/nntwitter.git
+
+Git paid, not played.
+
 Install
 =======
 We are trying to push ELPASO_ as the preferred package installer.
